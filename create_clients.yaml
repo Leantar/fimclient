@@ -1,0 +1,4 @@
+- name: test_client
+  roles:
+    - user_admin
+    - approver

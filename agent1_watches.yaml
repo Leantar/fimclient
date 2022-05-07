@@ -1,0 +1,4 @@
+name: agent1
+watched_paths:
+    - /home/bob/
+    - /opt/
